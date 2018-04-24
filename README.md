@@ -18,3 +18,14 @@ Note: My desktop background is dark
 The second skin is a bigger skin that you can manually refresh and collapse, its based on the RSSFEEDpack
 
 ![big](https://i.imgur.com/xNrUtpN.png)
+
+
+## Editing the RSS feed
+
+If you wish to edit what the RSS reader shows, open the skin .ini file and look for this line:
+
+`https://www.reddit.com/r/anime/search.rss?q=discussion+NOT+rewatch+NOT+request&restrict_sr=on&sort=new&t=all`
+
+This is based on the reddit search, currently its searching for any thread that has "discussion" in the name and it hides anything that has "rewatch" or "request", its sorted by new.
+
+You can simply make your own search on reddit and just add .rss after search in the url and replace your url in the .ini file, then refresh the skin.

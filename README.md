@@ -14,11 +14,12 @@ The first skin is a transparent skin based on the Multimeter RSS:
 
 Note: My desktop background is dark
 
-transparent
+![transparent](https://camo.githubusercontent.com/7e4387d0bdd15d0394ac2152579bbbcacd4a9193/68747470733a2f2f692e696d6775722e636f6d2f5664577a4365332e706e67)
 
 The second skin is a bigger skin that you can manually refresh and collapse, its based on the RSSFEEDpack
 
-big
+![big](https://camo.githubusercontent.com/6c19e3309df9caeacfddfac22e35329b81276658/68747470733a2f2f692e696d6775722e636f6d2f784e725574704e2e706e67)
+
 ## Editing the RSS feed
 
 If you wish to edit what the RSS reader shows, open the skin .ini file and look for this line:

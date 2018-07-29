@@ -23,7 +23,7 @@ big
 
 If you wish to edit what the RSS reader shows, open the skin .ini file and look for this line:
 
-https://www.reddit.com/r/anime/search.rss?q=discussion+NOT+rewatch+NOT+request&restrict_sr=on&sort=new&t=all
+`https://www.reddit.com/r/anime/search.rss?q=discussion+NOT+rewatch+NOT+request&restrict_sr=on&sort=new&t=all`
 
 This is based on the reddit search, currently its searching for any thread that has "discussion" in the name and it hides anything that has "rewatch" or "request", its sorted by new.
 
